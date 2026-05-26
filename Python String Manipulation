@@ -1,0 +1,35 @@
+# Subjective Questions
+# A beginner is trying to understand how Python works from the ground up and writes the following notes and code snippets:
+
+# They explain that computers understand only binary, and describe the role of assembly language and high-level languages like Python.
+# They claim Python is both easy to use and widely used in AI/ML.
+# They write the following Python code:
+
+a = "Hello"
+b = "World"
+num = "10"
+flag = True
+
+print(a + " " + b)
+print(a[1:4])
+print(len(b))
+print(type(num))
+
+result = int(num) + flag
+print(result)
+
+print(0.1 + 0.2)
+
+
+# Question:
+# Using the above scenario, provide a detailed explanation covering the following:
+
+# Explain how high-level languages like Python are converted into machine-understandable code, including the difference between compiled and interpreted languages.
+# Justify why Python is widely used in AI/ML, mentioning specific features and libraries.
+# Identify and explain the data types of all variables used in the code.
+# Explain the concepts of string indexing, slicing, concatenation, and length using the given examples.
+# Describe how type conversion works in the code and why flag affects the arithmetic result.
+# Analyze the output of each print() statement with proper reasoning.
+# Explain why 0.1 + 0.2 may not produce an exact 0.3 result.
+# Highlight any Python rules or best practices demonstrated (or violated) in the code.
+# Your answer should be well-structured, logically explained, and demonstrate a clear understanding of all fundamental concepts covered in the lecture.
